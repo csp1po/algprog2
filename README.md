@@ -116,6 +116,7 @@ try:
 except TypeError:
     print("Operação não permitida")
 ```
+---
 
 ### **A cláusula `else`**
 
@@ -148,7 +149,9 @@ else:
     f.close()
 ```
 
-###**A Cláusula `finally`**
+---
+
+### **A Cláusula `finally`**
 
 Imagine que você sempre tivesse que implementar algum tipo de ação para limpar após executar seu código. Python permite que você faça isso usando a cláusula `finally`.
 
@@ -238,6 +241,8 @@ except IOError as e:
     print('Erro de I/O:', e)
 ```
 
+---
+
 ## **Gerando (_raising_) uma Exceção**
 
 Podemos usar o comando `raise` para lançar uma exceção se ocorrer uma condição. A instrução pode ser complementada com uma exceção personalizada.
@@ -254,6 +259,8 @@ if x > 5:
 ```
 
 > O programa para e exibe nossa exceção na tela, oferecendo pistas sobre o que deu errado.
+
+---
 
 ## **A Exceção `AssertionError`**
 
@@ -318,6 +325,7 @@ result = calculate_square_root(-4)  # Isso levanta um AssertionError durante a d
 | `raise`    | permite que você lance uma exceção a qualquer momento. |
 | `assert` | permite verificar se uma determinada condição foi atendida e lançar uma exceção se não for. |
 
+---
 
 ### **Para resumir:**
 
