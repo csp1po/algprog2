@@ -1,4 +1,4 @@
-#**Dicionários - O que é?**
+# **Dicionários - O que é?**
 
 Idêntico as listas, um dicionário é uma coleção mutável de vários valores.
 
@@ -15,7 +15,7 @@ Observando o trecho de código acima, atribuiu-se um dicionário à variável ``
 Os valores dessas chaves são ``'fat'``, ``'gray'``, e ``'loud'``, respectivamente.
 
 
-##**Como acessar estes valores?**
+## **Como acessar estes valores?**
 
 ```python
 myCat['size']
@@ -61,32 +61,14 @@ d['a']
 ```
 
 
-
-
-    'alpha'
-
-
-
-
 ```python
 # imprime o valor correspondente à chave 'x'
 d['x']
 ```
 
 
-    ---------------------------------------------------------------------------
 
-    KeyError                                  Traceback (most recent call last)
-
-    <ipython-input-10-34b0b3efbbd9> in <cell line: 2>()
-          1 # imprime o valor correspondente à chave 'x'
-    ----> 2 d['x']
-    
-
-    KeyError: 'x'
-
-
-##**Dicionários versus Listas**
+## **Dicionários versus Listas**
 
 Diferentemente das listas, os itens de um dicionário não estão ordenados. Ou seja, o primeiro item de uma lista ``spam`` será sempre ``spam[0]``. Entretanto, não existe um "primeiro" item em um dicionário.
 
