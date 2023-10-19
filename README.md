@@ -116,7 +116,7 @@ with open('numeros.txt') as f:
 *   Python é legal, pois sempre você pode se aprofundar mais
 *   Python é simples, mas difícil de esgotar
 
-##**Exemplo #1**
+## **Exemplo #1**
 
 Leia o arquivo `mensagem.txt` e grave em num novo arquivo chamado `cripto.txt` com todas as vogais trocadas por ‘*’
 
