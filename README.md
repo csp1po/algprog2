@@ -80,6 +80,7 @@ Desta vez, você encontrou um **erro de exceção**. Esse tipo ocorre sempre que
 
 > Exceções são objetos especiais que Python usa para administrar erros que porventura surgirão durante a execução de um programa. Sempre que ocorre um erro e Python não sabe o que fazer a seguir, um objeto de exceção é criado. Se você escrever um código de tratamento de exceções, o programa continuará em execução. Se a exceção não for tratada, o programa irá parar e um _traceback_ (rastreamento) incluindo informações sobre a exceção levantada será exibido.
 
+---
 
 ## **Try, Except, Finally: Tratamento de Exceções**
 
