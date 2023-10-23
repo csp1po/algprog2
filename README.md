@@ -347,4 +347,4 @@ Uma lista completa de exceções em Python, pode ser encontrada aqui:
 
 Observe a hierarquia das exceções:
 
-[https://docs.python.org/pt-br/3.11/library/exceptions.html#exception-hierarchy]
+[Hierarquia das Exceções](https://docs.python.org/pt-br/3.11/library/exceptions.html#exception-hierarchy)
