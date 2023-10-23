@@ -343,5 +343,8 @@ result = calculate_square_root(-4)  # Isso levanta um AssertionError durante a d
 
 Uma lista completa de exceções em Python, pode ser encontrada aqui:
 
-
 [Exceções em Python](https://docs.python.org/pt-br/3.11/library/exceptions.html)
+
+Observe a hierarquia das exceções:
+
+[https://docs.python.org/pt-br/3.11/library/exceptions.html#exception-hierarchy]
