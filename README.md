@@ -1,5 +1,7 @@
 # <font color='blue'>**Tratamento de Arquivos**</font>
 
+### Conteúdo adaptado do Prof. Marco André Lopes Mendes
+
 ## **Introdução**
 
 Até agora nossos dados desapareciam ao sair do programa.
