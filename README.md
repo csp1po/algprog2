@@ -123,7 +123,7 @@ print(S)
 
 Muitas vezes você poderá desenvolver o código acima utilizando a estrutura `for` (forma tradicional).
 
-Depois do código funcionando, você pode refatorá-lo (i.e. reescrê-lo), utilizando a compreensão de lista.
+Depois do código funcionando, você pode refatorá-lo (i.e. reescrevê-lo), utilizando a compreensão de lista.
 
 De forma geral, a compreensão de lista tem um desempenho melhor (mais rápida de ser criada) e deixa o código mais legível.
 
