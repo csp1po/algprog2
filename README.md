@@ -388,7 +388,7 @@ setup(
 )
 ```
 
-Crie um arquivo README: Um arquivo README é um documento que fornece informações sobre como usar sua biblioteca, incluindo instruções de instalação, exemplos de uso e quaisquer limitações ou bugs conhecidos. Este arquivo também é usado para fornecer informações sobre sua biblioteca a outros desenvolvedores.
+> **Crie um arquivo README**: Um arquivo README é um documento que fornece informações sobre como usar sua biblioteca, incluindo instruções de instalação, exemplos de uso e quaisquer limitações ou bugs conhecidos. Este arquivo também é usado para fornecer informações sobre sua biblioteca a outros desenvolvedores.
 
 4. **Crie o arquivo `README`:**
 
